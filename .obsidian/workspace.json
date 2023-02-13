@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "19aa3c0ff94415f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bc8b093f798cbea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "705ed049a4dcf335",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54984eac0aa8716",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3f48f0b725ea66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2cf9edae2d65cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1a2a83b6ef0fb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d695d553dfcc957",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "e14bc4af34690792",
+    "type": "split",
+    "children": [
+      {
+        "id": "658bda7afd9d78f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62c370dd78935c2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8aa417fbae9e67be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "324413b5dbbf618d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4079ae0123d4b761",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "224e613902c4fc7f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a382bb338a5e99c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d862fdf2069d657",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "9f4d4e06ce8b3bb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c94a9bba847abad6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "705ed049a4dcf335",
+  "lastOpenFiles": [
+    "z_Templates/Markdown Templates/Markdown Commands/Markdown Language.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "z_Templates/Markdown Templates/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "Air Mephit.md",
+    "World/TTRPG Statblocks/Untitled.md",
+    "z_Templates/Markdown Templates/Insert Rollable Table/Insert Rollable Table - d12.md",
+    "z_Templates/Markdown Templates/Insert Rollable Table/Insert Rollable Table - d20.md",
+    "z_Templates/Markdown Templates/Insert Rollable Table/Insert Rollable Table.md"
+  ]
+}
